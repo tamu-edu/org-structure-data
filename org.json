@@ -1,0 +1,253 @@
+{ 
+    "PROV":
+    {
+        "name":"Office of the Provost",
+        "code":"PROV",
+        "units": 
+        {
+            "LIBR":
+            {
+                "name": "University Libraries",
+                "code": "LIBR",
+                "units": {}
+            },
+            "IDIV":
+            {
+                "name": "Office of Diversity",
+                "code": "IDIV",
+                "units": {}
+            },
+            "CLAT":
+            {
+                "name": "College of Arts and Sciences",
+                "code": "CLAT",
+                "units": {
+                    "CLAT":"College of Arts and Sciences",
+                    "GEOG":"Geography",
+                    "GEOL":"Geology",
+                    "METR":"Meteorology",
+                    "OCNG":"Oceanography",
+                    "GERG":"Geochemical & Environmental Research Group",
+                    "ECON":"Economics",
+                    "ENGL":"English",
+                    "HIST":"History",
+                    "PHIL":"Philosophy & Humanities",
+                    "PSYC":"Psychology",
+                    "ANTH":"Anthropology",
+                    "SOCI":"Sociology",
+                    "SCOM":"Communication",
+                    "INTS":",International Studies Department",
+                    "HISP":"Hispanic Studies",
+                    "BIOL":"Biology",
+                    "CHEM":"Chemistry",
+                    "STAT":"Department Of Statistics",
+                    "MATH":"Mathematics",
+                    "PHYS":{
+                        "name": "Physics And Astronomy",
+                        "units":{
+                            "PHYS":"Mitchell Institute"
+                        }
+                    },
+                    "ATLT":"Telecommunications Academy",
+                    "CLGE":"Dean Of Geosciences",
+                    "CLLA":"Dean Of Liberal Arts",
+                    "CLSC":"Dean Of Science",
+                    "ISC":"nstitute For Scientific Computation",
+                    "ACAD":"Transition Academic Programs",
+                    "VBMS":"Vet Med Biomedical Science",
+                    "CYCL":"Cyclotron Institute",
+                    "PPRI":"Public Policy Research Institute"
+                }
+            },
+            "CLAR":
+            {
+                "name": "School of Architecture",
+                "code": "CLAR",
+                "units": {
+                    "ARCH":"Architecture",
+                    "COSC":"Construction Science",
+                    "LAUP":"Landscape Architecture & Urban Planning",
+                    "CLAR":"Dean Of College Of Architecture"
+                }
+            },
+            "CLAG":
+            {
+                "name": "College of Agriculture",
+                "code": "",
+                "units": {
+                    "AGEC":"Agricultural Economics",
+                    "AGED":"Agriculture Education",
+                    "AGEN":"Biological & Agricultural Engineering",
+                    "ANSC":"Animal Science",
+                    "BCBP":"Biochemistry & Biophysics",
+                    "ENTO":"Entomology",
+                    "HORT":"Horticultural Sciences",
+                    "PLPM":"Plant Pathology & Microbiology",
+                    "NFSC":"Nutrition",
+                    "POSC":"Poultry Science",
+                    "RPTS":"Recreation, Parks & Tourism Science",
+                    "SCSC":"Soil & Crop Sciences",
+                    "ECCB":"Ecology & Conservation Biology",
+                    "RWFM":"Rangeland, Wildlife & Fisheries Management",
+                    "FSTC":"Food Science & Technology",
+                    "TAES":
+                    {
+                        "name":"TAES Academic Departments - Unit Business Services",
+                        "units": 
+                        {
+                            "1":"Ag Comm",
+                            "2":"Digital Learning"
+                        }
+                    },
+                    "CLAG":"Office of the Dean"
+
+                }
+            },
+            "SGPS":
+            {
+                "name": "Bush School of Government & Public Service",
+                "code": "",
+                "units": {
+                    "SGPS":"Bush School Of Government And Public Service",
+                    "POLS":"Political Science",
+                    "BUDC":"Bush School DC Teaching Site",
+                    "INTA":"International Affairs",
+                    "PSAA":"Public Service And Administration",
+                    "BPCC":"Presidential Conference Center"
+                }
+            },
+            "CLBA":
+            {
+                "name": "Mays Business School",
+                "code": "CLBA",
+                "units": {
+                    "ACCT":"Accounting",
+                    "BANA":"Dept Of Information & Operations Management",
+                    "FINC":"Finance",
+                    "MGMT":"Management",
+                    "MKTG":"Marketing",
+                    "BMPO":"Mba Program Office",
+                    "IBUS":"Center For International Business Studies",
+                    "CLBA":"Dean Of Business Administration",
+                    "CNVE":"Center for New Ventures and Entrepreneurship",
+                    "EXDE":"Center for Executive Development",
+                    "EMBA":"Executive Mba Program-Mays Business School",
+                    "BUSP":"Business Undergraduate Special Programs"
+                }
+            },
+            "CLED":
+            {
+                "name": "School of Education",
+                "code": "CLED",
+                "units": {
+                    "TLAC":"Teaching, Learning And Culture",
+                    "EAHR":"Educational Adm & Human Resources Development",
+                    "EPSY":"Educational Psychology",
+                    "HLKN":"Health And Kinesiology",
+                    "CLED":"Dean Of Education",
+                    "CERD":"Cehd Research And Development"
+                }
+            },
+            "CLEN":
+            {
+                "name": "College of Engineering",
+                "code": "CLEN",
+                "units": {
+                    "AERO":"Aerospace Engineering",
+                    "CHEN":"Chemical Engineering",
+                    "CVEN":"Civil Engineering",
+                    "BMEN":"Biomedical Engineering",
+                    "CPSC":"Computer Science & Engineering",
+                    "ELEN":"Electrical Engineering",
+                    "ENTC":"Engineering Technology",
+                    "INEN":"Industrial Engineering",
+                    "MEEN":"Mechanical Engineering",
+                    "NUEN":"Nuclear Engineering",
+                    "PETE":"Petroleum Engineering",
+                    "MSEN":"Materials Science & Engineering",
+                    "ZACH":{
+                        "name": "Zachry Engineering Education Complex",
+                        "units":{
+                            "1":"Zachry Common Labs",
+                            "2":"Zachry Design Center"
+                        }
+                    },
+                    "MTDE":"Multidisciplinary Engineering",
+                    "MCF,":"aterials Characterization Facility",
+                    "OCEN":"Ocean Engineering",
+                    "EAPO":"Education Program/Easa",
+                    "DLEN":"Remote Education",
+                    "EPO": {
+                        "name": "Engineering Programs Office",
+                        "units" :{
+                            "1":"Engineering Academic Coordination",
+                            "2":"Epo Asst. Dean For Finance",
+                            "3":"Vice Chancellor Of Engineering",
+                            "4":"Engineering Communications Group"
+                        }
+                    }
+                }
+            },
+            "CLEM":
+            {
+                "name": "College of Engineering Medicine",
+                "code": ""
+            },
+            "CLVF":
+            {
+                "name": "School of Performance, Visualiation and Fine Arts ",
+                "code": "CLVF",
+                "units": {
+                    "VIZA":"Visualization",
+                    "CLVF":"School of Performance, Visualization & Fine Arts",
+                    "PERF":"Performance Studies"
+                }
+            },
+            "CLLW":
+            {
+                "name": "School of Law",
+                "code": "CLLW"
+            },
+            "CLVM":
+            {
+                "name": "School of Veterinary Medicine & Biomedical Sciences",
+                "code": "CLVM",
+                "units": {
+                    "CLVM":"Dean Of Veterinary Medicine",
+                    "VTAN":"Veterinary Integrative Biosciences",
+                    "VLAM":"Large Animal Clinical Sciences",
+                    "VSAM":"Small Animal Medicine & Surgery",
+                    "VTPB":"Pathobiology",
+                    "VTPP":"Physiology & Pharmacology",
+                    "VTEA":"Teaching Hospital",
+                    "VTPK":"Veterinary Medical Park",
+                    "TIPS":"Texas Institute For Preclinical Studies"
+                }
+            },
+            "TAMUG":
+            {
+                "name": "Galveston Campus",
+                "code": "TAMUG"
+            },
+            "QEMG":
+            {
+                "name": "Qatar Campus",
+                "code": "QEMG"
+            }
+        }
+    },
+    "PRES":
+    {
+        "name":"Office of the President",
+        "code":"",
+        "units": {
+            "":
+            {
+                "name": "",
+                "code": "",
+                "units": {}
+            }
+        }
+    }
+
+}
