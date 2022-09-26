@@ -9,8 +9,7 @@
             {
                 "name": "Office of Institutional Development",
                 "code": "VPDV",
-                "units": {
-                }
+                "units": {}
             },
             "VPFAC":
             {
@@ -73,8 +72,7 @@
                 "name": "Athletics Department",
                 "code": "ATHL",
                 "units": {
-                    "ATCO": "Athletic Compliance",
-                    "ATHL": "Athletics Director",
+                    "ATCO": "Athletics Compliance",
                     "REED": "Reed Arena"
                 }
             },
@@ -173,7 +171,7 @@
             },
             "VPSS":
             {
-                "name": "Vice President For Student Affairs",
+                "name": "Vice President of Student Affairs",
                 "code": "VPSS",
                 "units": {
                     "AHSO":"Aggie Honor System Office",
@@ -250,7 +248,7 @@
                         "code": "VPROV",
                         "units": {
                             "TEXC":"Teaching Excellence Center",
-                            "MHEC":"Mcallen Higher Education Center",
+                            "MHEC":"McAllen Higher Education Center",
                             "AIOL":"Academic Innovation & Online Learning"
                         }
                     },
@@ -271,26 +269,26 @@
                         "name": "College of Arts and Sciences",
                         "code": "CLAT",
                         "units": {
-                            "CLAT":"College of Arts and Sciences",
-                            "GEOG":"Geography",
-                            "GEOL":"Geology",
-                            "METR":"Meteorology",
-                            "OCNG":"Oceanography",
-                            "GERG":"Geochemical & Environmental Research Group",
-                            "ECON":"Economics",
-                            "ENGL":"English",
-                            "HIST":"History",
-                            "PHIL":"Philosophy & Humanities",
-                            "PSYC":"Psychology",
-                            "ANTH":"Anthropology",
-                            "SOCI":"Sociology",
-                            "SCOM":"Communication",
-                            "INTS":",International Studies Department",
-                            "HISP":"Hispanic Studies",
-                            "BIOL":"Biology",
-                            "CHEM":"Chemistry",
-                            "STAT":"Department of Statistics",
-                            "MATH":"Mathematics",
+                            "CLAT": "Office of the Dean of College of Arts & Sciences",
+                            "GEOG": "Geography",
+                            "GEOL": "Geology",
+                            "METR": "Meteorology",
+                            "OCNG": "Oceanography",
+                            "GERG": "Geochemical & Environmental Research Group",
+                            "ECON": "Economics",
+                            "ENGL": "English",
+                            "HIST": "History",
+                            "PHIL": "Philosophy & Humanities",
+                            "PSYC": "Psychology",
+                            "ANTH": "Anthropology",
+                            "SOCI": "Sociology",
+                            "SCOM": "Communication",
+                            "INTS": "International Studies Department",
+                            "HISP": "Hispanic Studies",
+                            "BIOL": "Biology",
+                            "CHEM": "Chemistry",
+                            "STAT": "Department of Statistics",
+                            "MATH": "Mathematics",
                             "PHYS":{
                                 "name": "Physics & Astronomy",
                                 "units":{
@@ -298,12 +296,9 @@
                                 }
                             },
                             "ATLT": "Internet2 Technology Evaluation Center",
-                            "CLGE": "Dean of Geosciences",
-                            "CLLA": "Dean of Liberal Arts",
-                            "CLSC": "Dean of Science",
                             "ISC": "Institute For Scientific Computation",
                             "ACAD": "Transition Academic Programs",
-                            "VBMS": "Vet Med Biomedical Science",
+                            "VBMS": "Biomedical Science",
                             "CYCL": "Cyclotron Institute",
                             "PPRI": "Public Policy Research Institute"
                         }
@@ -316,7 +311,7 @@
                             "ARCH": "Architecture",
                             "COSC": "Construction Science",
                             "LAUP": "Landscape Architecture & Urban Planning",
-                            "CLAR": "Dean of College of Architecture"
+                            "CLAR": "Office of the Dean of College of Architecture"
                         }
                     },
                     "CLAG":
@@ -324,31 +319,31 @@
                         "name": "College of Agriculture",
                         "code": "CLAG",
                         "units": {
-                            "AGEC":"Agricultural Economics",
-                            "AGED":"Agriculture Education",
-                            "AGEN":"Biological & Agricultural Engineering",
-                            "ANSC":"Animal Science",
-                            "BCBP":"Biochemistry & Biophysics",
-                            "ENTO":"Entomology",
-                            "HORT":"Horticultural Sciences",
-                            "PLPM":"Plant Pathology & Microbiology",
-                            "NFSC":"Nutrition",
-                            "POSC":"Poultry Science",
-                            "RPTS":"Recreation, Parks & Tourism Science",
-                            "SCSC":"Soil & Crop Sciences",
-                            "ECCB":"Ecology & Conservation Biology",
-                            "RWFM":"Rangeland, Wildlife & Fisheries Management",
-                            "FSTC":"Food Science & Technology",
+                            "AGEC": "Agricultural Economics",
+                            "AGED": "Agriculture Education",
+                            "AGEN": "Biological & Agricultural Engineering",
+                            "ANSC": "Animal Science",
+                            "BCBP": "Biochemistry & Biophysics",
+                            "ENTO": "Entomology",
+                            "HORT": "Horticultural Sciences",
+                            "PLPM": "Plant Pathology & Microbiology",
+                            "NFSC": "Nutrition",
+                            "POSC": "Poultry Science",
+                            "RPTS": "Recreation, Parks & Tourism Science",
+                            "SCSC": "Soil & Crop Sciences",
+                            "ECCB": "Ecology & Conservation Biology",
+                            "RWFM": "Rangeland, Wildlife & Fisheries Management",
+                            "FSTC": "Food Science & Technology",
                             "TAES":
                             {
-                                "name":"TAES Academic Departments - Unit Business Services",
+                                "name": "TAES Academic Departments - Unit Business Services",
                                 "units": 
                                 {
                                     "1": "Communications",
                                     "2": "Digital Learning"
                                 }
                             },
-                            "CLAG":"Office of the Dean"
+                            "CLAG": "Office of the Dean"
 
                         }
                     },
