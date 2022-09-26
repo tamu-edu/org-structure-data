@@ -56,23 +56,23 @@
                     "VPMC":"Vice President For Marketing And Communications",
                     "EDBS":"Educational Broadcast Services",
                     "UGSP":"Strategic Partnerships",
-                    "URO":"Undergrad Recruitment & Outreach",
+                    "URO":"Undergraduate Recruitment & Outreach",
                     "COI":"Community Outreach & Inclusion",
                     "UGRE":"Undergraduate Recruitment",
                     "ADMI":"Office Of Admissions",
                     "AAVC":"Appelt Aggieland Visitor Center",
-                    "DEFS":"Dept Of Engagement For Sustainability",
+                    "DEFS":"Department Of Engagement For Sustainability",
                     "SUST":"Office Of Sustainability",
                     "COLN":"Colonias Program"
                 }
             },
             "ATHL":
             {
-                "name": "Athletics Director",
+                "name": "Athletics Department",
                 "code": "ATHL",
                 "units": {
                     "ATCO":"Athletic Compliance",
-                    "ATHL":"Athletics Department",
+                    "ATHL":"Athletics Director",
                     "REED":"Reed Arena"
                 }
             },
@@ -121,7 +121,7 @@
                 "name": "Vice President For Operations",
                 "code": "VPOP",
                 "units": {
-                    "TAMIP":"TAMU Innovation Partners",
+                    "TAMIP":"Texas A&M University Innovation Partners",
                     "HUMR":{
                         "name":"Human Resources",
                         "units":{
@@ -134,7 +134,7 @@
                     "EIS":"Enterprise Information Systems",
                     "EDPS":"Division Of Finance And Operations IT",
                     "ITAS":{
-                        "name":"It Academic Services",
+                        "name":"IT Academic Services",
                         "units":{
                             "ITAS":"Open Access Labs"
                         }
@@ -180,7 +180,7 @@
                     "CCOR":"Commandant - Corp Of Cadets",
                     "DSSA":"Disability Resources",
                     "MSCN":"Memorial Student Programs",
-                    "MUSA":"Dept Of Music Activities",
+                    "MUSA":"Department Of Music Activities",
                     "MUSC":"Multicultural Services",
                     "RELH":"Residence Life",
                     "RSPO":"Recreational Sports Department",
@@ -188,7 +188,7 @@
                     "SACT":"Student Activities",
                     "STAF":"Student Life",
                     "STLS":"Student Life Studies",
-                    "UCEN":"University Center_& Special Events",
+                    "UCEN":"University Center & Special Events",
                     "VRSC":"Veteran Resource & Support Center"
                 }
             },
@@ -209,7 +209,7 @@
                     },
                     "IDIV":
                     {
-                        "name": "Office of Diversity",
+                        "name": "Office of the Vice President & Associate Provost for Diversity",
                         "code": "IDIV",
                         "units": {}
                     },
@@ -233,7 +233,7 @@
                     },
                     "APHU":
                     {
-                        "name": "Dean-Undergrad Programs & Associate Provost",
+                        "name": "Dean - Undergraduate Programs & Associate Provost",
                         "code": "APHU",
                         "units": {
                             "UHON":"Launch",
@@ -370,11 +370,11 @@
                         "code": "CLBA",
                         "units": {
                             "ACCT":"Accounting",
-                            "BANA":"Dept Of Information & Operations Management",
+                            "BANA":"Department Of Information & Operations Management",
                             "FINC":"Finance",
                             "MGMT":"Management",
                             "MKTG":"Marketing",
-                            "BMPO":"Mba Program Office",
+                            "BMPO":"MBA Program Office",
                             "IBUS":"Center For International Business Studies",
                             "CLBA":"Dean Of Business Administration",
                             "CNVE":"Center for New Ventures and Entrepreneurship",
@@ -389,11 +389,11 @@
                         "code": "CLED",
                         "units": {
                             "TLAC":"Teaching, Learning And Culture",
-                            "EAHR":"Educational Adm & Human Resources Development",
+                            "EAHR":"Educational Administration & Human Resources Development",
                             "EPSY":"Educational Psychology",
                             "HLKN":"Health And Kinesiology",
                             "CLED":"Dean Of Education",
-                            "CERD":"Cehd Research And Development"
+                            "CERD":"CEHD Research And Development"
                         }
                     },
                     "CLEN":
