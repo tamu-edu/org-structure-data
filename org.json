@@ -104,7 +104,7 @@
                     "FISC":{
                         "name":"Financial Management Operations",
                         "units":{
-                            "FISC": "Fmo Accounting Services"
+                            "FISC": "Financial Management Operations Accounting Services"
                         }
                     },
                     "DAS": "Departmental Accounting Services",
@@ -121,11 +121,11 @@
                 "name": "Vice President For Operations",
                 "code": "VPOP",
                 "units": {
-                    "TAMIP":"Tamu Innovation Partners",
+                    "TAMIP":"TAMU Innovation Partners",
                     "HUMR":{
                         "name":"Human Resources",
                         "units":{
-                            "HUMR":"Vp For Hr Services (Adloc Only)"
+                            "HUMR":"Vice President For Human Resource Services (Adloc Only)"
                         }
                     },
                     "PAYR":"Texas A&M University - Payroll",
@@ -160,12 +160,12 @@
             },
             "GOVT":
             {
-                "name": "Government Relations",
+                "name": "Vice President For Government Relations and Strategic Initiatives",
                 "code": "GOVT"
             },
             "MASD":
             {
-                "name": "University Risk And Compliance",
+                "name": "Office of Risk, Ethics and Compliance",
                 "units": {
                     "MASD":"Open Records Office"
                 }
@@ -202,7 +202,10 @@
                     {
                         "name": "University Libraries",
                         "code": "LIBR",
-                        "units": {}
+                        "units": {
+                            "UPRS": "Texas A&M University Press",
+                            "LIBR": "Office of the Dean of University Libraries"
+                        }
                     },
                     "IDIV":
                     {
@@ -230,11 +233,10 @@
                     },
                     "APHU":
                     {
-                        "name": "Dean-Undergrad Programs & Assoc Provost",
+                        "name": "Dean-Undergrad Programs & Associate Provost",
                         "code": "APHU",
                         "units": {
                             "UHON":"Launch",
-                            "APHU":"Dean-Undergrad Programs & Assoc Provost",
                             "ASC":"Academic Success Center",
                             "OSS":"Office For Student Success",
                             "MLC":"Math Learning Center",
@@ -251,6 +253,18 @@
                             "AIOL":"Academic Innovation & Online Learning"
                         }
                     },
+                    "PPO":
+                    {
+                        "name": "Public Partnership & Outreach",
+                        "code": "PPO",
+                        "units": {}
+                    },
+                    "PCOMM":
+                    {
+                        "name": "Provost Communications Office",
+                        "code": "PCOMM",
+                        "units": {}
+                    },  
                     "CLAT":
                     {
                         "name": "College of Arts and Sciences",
@@ -474,9 +488,8 @@
             {
                 "name": "",
                 "code": "",
-                "units": {
-                }
-            }          
+                "units": {}
+            }        
         }
     }
 }
