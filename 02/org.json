@@ -1,0 +1,484 @@
+{ 
+    "PRES":
+    {
+        "name":"Office of the President",
+        "code":"PRES",
+        "units": 
+        {
+            "VPDV":
+            {
+                "name": "Office of Institutional Development",
+                "code": "VPDV",
+                "units": {}
+            },
+            "VPFAC":
+            {
+                "name": "Vice President For Faculty Affairs",
+                "code": "VPFAC",
+                "units": {
+                    "ISFS": "Immigration Services - Faculty & Scholars"
+                }
+            },
+            "URES":
+            {
+                "name": "Vice President of Research",
+                "code": "URES",
+                "units": {
+                    "IODP": "International Ocean Discovery Program",
+                    "LAAR": "Comparative Medicine Program",
+                    "TAMIN": "Texas A&M Neuroscience Institute",
+                    "WSGI": "Whole Systems Genomics Initiative",
+                    "SEAG": "Sea Grant Program Office",
+                    "ENRGY": "Texas A&M Energy Institute",
+                    "GHRC": "Global Health Research Complex",
+                    "TAMDS": "Texas A&M Institute of Data Science",
+                    "URES": "Texas A&M Research Administration",
+                    "IQSE": "Institute of Quantum Science",
+                    "EMIC": "Microscopy & Imaging Center",
+                    "OSRS": "Sponsored Research Services",
+                    "MSTRO": "Research Information Systems"
+                }
+            },
+            "VPASC":
+            {
+                "name": "Vice President of Academic & Strategic Collaborations",
+                "code": "VPASC",
+                "units": {
+                    "UPRS": "Texas A&M University Press",
+                    "UART": "University Art Exhibits",
+                    "AVPA": "Academy For Visual & Performing Arts",
+                    "CHCR": "Becky Gates Children's Center",
+                    "PERC": "Private Enterprise Research Center",
+                    "TRER": "Texas Real Estate Research Center",
+                    "EDCIE": "Economic Development & Community Impact",
+                    "GLOBE": "Global Engagement",
+                    "SABR": "Education Abroad",
+                    "ISS": "International Student Services",
+                    "VPMC": "Vice President of Marketing & Communications",
+                    "EDBS": "Educational Broadcast Services",
+                    "UGSP": "Strategic Partnerships",
+                    "URO": "Undergraduate Recruitment & Outreach",
+                    "COI": "Community Outreach & Inclusion",
+                    "UGRE": "Undergraduate Recruitment",
+                    "ADMI": "Office of Admissions",
+                    "AAVC": "Appelt Aggieland Visitor Center",
+                    "DEFS": "Department of Engagement For Sustainability",
+                    "SUST": "Office of Sustainability",
+                    "COLN": "Colonias Program"
+                }
+            },
+            "ATHL":
+            {
+                "name": "Athletics Department",
+                "code": "ATHL",
+                "units": {
+                    "ATCO": "Athletics Compliance",
+                    "REED": "Reed Arena"
+                }
+            },
+            "VPFN":
+            {
+                "name": "Chief Financial Officer",
+                "code": "VPFN",
+                "units": {
+                    "BUSH": "Bush Presidential Library Foundation",
+                    "AST": "Academic Services Team",
+                    "SFAOP": "Student Financial Aid Operations Accts",
+                    "ODRS": "Office of Data Research Services",
+                    "AABS": "Academic Affairs Business Services",
+                    "REGI": "Registrar",
+                    "ASTOP": "Aggie One Stop",
+                    "FNAR": "Finance - College of Architecture",
+                    "FNAT": "Finance - College of Arts & Sciences",
+                    "FNVF": "Finance - School of Visual & Fine Arts",
+                    "FNLI": "Finance - University Libraries",
+                    "FNBA": "Finance - Mays Business School",
+                    "FNBU": "Finance - Bush School",
+                    "FNLW": "Finance - School of Law",
+                    "FNVM": "Finance - College of Veterinary Medicine",
+                    "FNED": "Finance - College of Education",
+                    "FNVH": "Finance - Vet Teaching Hospital",
+                    "OBAS": "Budget & Planning",
+                    "VPFN3": "Associate Vice President & Controller",
+                    "SFSV": "Student Business Services",
+                    "FISC":{
+                        "name": "Financial Management Operations",
+                        "units":{
+                            "FISC": "Accounting Services"
+                        }
+                    },
+                    "DAS": "Departmental Accounting Services",
+                    "FNOP": "Finance Operations",
+                    "FNRS": "Finance - Research",
+                    "PURS": "Procurement Services",
+                    "CCOM": "Department of Contract Administration",
+                    "CREC": "Central Receiving",
+                    "FNSA": "Finance - Student Affairs"                
+                }
+            },
+            "VPOP":
+            {
+                "name": "Vice President of Operations",
+                "code": "VPOP",
+                "units": {
+                    "TAMIP": "Texas A&M University Innovation Partners",
+                    "HUMR": "Division of Human Resources",
+                    "PAYR": "Payroll",
+                    "AARO": "Academic Affairs Recruiting Office",
+                    "COPS": "University Police",
+                    "PATT": "Transportation Services",  
+                    "CSCN":{
+                        "name": "Texas A&M Information Technology",
+                        "units": {
+                            "ITAS":{
+                                "name":"IT Academic Services",
+                                "units":{
+                                    "1":"Open Access Labs"
+                                }
+                            },
+                            "EDPS": "Division of Finance & Operations IT",
+                            "WAN": "Wide Area Network",
+                            "APCI": "Division of Information Technology",
+                            "DOIT": "Department of Information Technology",
+                            "HECN": "Instructional Media Services",
+                            "EIS": "Enterprise Information Systems",
+                            "OLTS": "Office of Learning Technology Services"
+                        }
+                    },
+                    "VPFA":{
+                        "name": "Vice President for Facilities, Health, Safety & Security",
+                        "units":{
+                            "VPFA": "Facilities, Analytics & Mapping",
+                            "CPDC": "Campus Planning, Design, & Construction",
+                            "EHSD": "Environmental Health & Safety Department",
+                            "FACM": "Facility Management",
+                            "UTIL": "Utilities & Energy Services"
+                        }
+                    }
+                }
+            },
+            "GOVT":
+            {
+                "name": "Vice President of Government Relations & Strategic Initiatives",
+                "code": "GOVT"
+            },
+            "MASD":
+            {
+                "name": "Office of Risk, Ethics & Compliance",
+                "units": {
+                    "MASD":"Open Records Office"
+                }
+            },
+            "VPSS":
+            {
+                "name": "Vice President of Student Affairs",
+                "code": "VPSS",
+                "units": {
+                    "AHSO":"Aggie Honor System Office",
+                    "CARC":"Career Center",
+                    "CCOR":"Commandant - Corps of Cadets",
+                    "DSSA":"Disability Resources",
+                    "MSCN":"Memorial Student Programs",
+                    "MUSA":"Department of Music Activities",
+                    "MUSC":"Multicultural Services",
+                    "RELH":"Residence Life",
+                    "RSPO":"Recreational Sports Department",
+                    "RUDD":"Rudder Theatre Complex",
+                    "SACT":"Student Activities",
+                    "STAF":"Student Life",
+                    "STLS":"Student Life Studies",
+                    "UCEN":"University Center & Special Events",
+                    "VRSC":"Veteran Resource & Support Center"
+                }
+            },
+            "PROV":
+            {
+                "name":"Office of the Provost",
+                "code":"PROV",
+                "units": 
+                {
+                    "LIBR":
+                    {
+                        "name": "University Libraries",
+                        "code": "LIBR",
+                        "units": {
+                            "UPRS": "Texas A&M University Press",
+                            "LIBR": "Office of the Dean of University Libraries"
+                        }
+                    },
+                    "IDIV":
+                    {
+                        "name": "Office of the Vice President & Associate Provost for Diversity",
+                        "code": "IDIV",
+                        "units": {}
+                    },
+                    "OOIA":
+                    {
+                        "name": "Office of Institutional Effectiveness",
+                        "code": "OOIA",
+                        "units": {}
+                    },
+                    "AEP":
+                    {
+                        "name": "Academic Effectiveness & Planning",
+                        "code": "AEP",
+                        "units": {}
+                    },
+                    "GRST":
+                    {
+                        "name": "Graduate & Professional Studies",
+                        "code": "GRST",
+                        "units": {}
+                    },
+                    "APHU":
+                    {
+                        "name": "Dean - Undergraduate Programs & Associate Provost",
+                        "code": "APHU",
+                        "units": {
+                            "UHON": "Launch",
+                            "ASC": "Academic Success Center",
+                            "OSS": "Office For Student Success",
+                            "MLC": "Math Learning Center",
+                            "UWC": "University Writing Center"
+                        }
+                    },
+                    "VPROV":
+                    {
+                        "name": "Vice Provost",
+                        "code": "VPROV",
+                        "units": {
+                            "TEXC":"Teaching Excellence Center",
+                            "MHEC":"McAllen Higher Education Center",
+                            "AIOL":"Academic Innovation & Online Learning"
+                        }
+                    },
+                    "PPO":
+                    {
+                        "name": "Public Partnership & Outreach",
+                        "code": "PPO",
+                        "units": {}
+                    },
+                    "PCOMM":
+                    {
+                        "name": "Provost Communications Office",
+                        "code": "PCOMM",
+                        "units": {}
+                    },  
+                    "CLAT":
+                    {
+                        "name": "College of Arts and Sciences",
+                        "code": "CLAT",
+                        "units": {
+                            "CLAT": "Office of the Dean of College of Arts & Sciences",
+                            "GEOG": "Geography",
+                            "GEOL": "Geology",
+                            "METR": "Meteorology",
+                            "OCNG": "Oceanography",
+                            "GERG": "Geochemical & Environmental Research Group",
+                            "ECON": "Economics",
+                            "ENGL": "English",
+                            "HIST": "History",
+                            "PHIL": "Philosophy & Humanities",
+                            "PSYC": "Psychology",
+                            "ANTH": "Anthropology",
+                            "SOCI": "Sociology",
+                            "SCOM": "Communication",
+                            "INTS": "International Studies Department",
+                            "HISP": "Hispanic Studies",
+                            "BIOL": "Biology",
+                            "CHEM": "Chemistry",
+                            "STAT": "Department of Statistics",
+                            "MATH": "Mathematics",
+                            "PHYS":{
+                                "name": "Physics & Astronomy",
+                                "units":{
+                                    "PHYS":"Mitchell Institute"
+                                }
+                            },
+                            "ATLT": "Internet2 Technology Evaluation Center",
+                            "ISC": "Institute For Scientific Computation",
+                            "ACAD": "Transition Academic Programs",
+                            "VBMS": "Biomedical Science",
+                            "CYCL": "Cyclotron Institute",
+                            "PPRI": "Public Policy Research Institute"
+                        }
+                    },
+                    "CLAR":
+                    {
+                        "name": "School of Architecture",
+                        "code": "CLAR",
+                        "units": {
+                            "ARCH": "Architecture",
+                            "COSC": "Construction Science",
+                            "LAUP": "Landscape Architecture & Urban Planning",
+                            "CLAR": "Office of the Dean of College of Architecture"
+                        }
+                    },
+                    "CLAG":
+                    {
+                        "name": "College of Agriculture",
+                        "code": "CLAG",
+                        "units": {
+                            "AGEC": "Agricultural Economics",
+                            "AGED": "Agriculture Education",
+                            "AGEN": "Biological & Agricultural Engineering",
+                            "ANSC": "Animal Science",
+                            "BCBP": "Biochemistry & Biophysics",
+                            "ENTO": "Entomology",
+                            "HORT": "Horticultural Sciences",
+                            "PLPM": "Plant Pathology & Microbiology",
+                            "NFSC": "Nutrition",
+                            "POSC": "Poultry Science",
+                            "RPTS": "Recreation, Parks & Tourism Science",
+                            "SCSC": "Soil & Crop Sciences",
+                            "ECCB": "Ecology & Conservation Biology",
+                            "RWFM": "Rangeland, Wildlife & Fisheries Management",
+                            "FSTC": "Food Science & Technology",
+                            "TAES":
+                            {
+                                "name": "TAES Academic Departments - Unit Business Services",
+                                "units": 
+                                {
+                                    "1": "Communications",
+                                    "2": "Digital Learning"
+                                }
+                            },
+                            "CLAG": "Office of the Dean"
+
+                        }
+                    },
+                    "SGPS":
+                    {
+                        "name": "Bush School of Government & Public Service",
+                        "code": "",
+                        "units": {
+                            "SGPS": "Bush School of Government & Public Service",
+                            "POLS": "Political Science",
+                            "BUDC": "Bush School DC Teaching Site",
+                            "INTA": "International Affairs",
+                            "PSAA": "Public Service & Administration",
+                            "BPCC": "Presidential Conference Center"
+                        }
+                    },
+                    "CLBA":
+                    {
+                        "name": "Mays Business School",
+                        "code": "CLBA",
+                        "units": {
+                            "ACCT": "Accounting",
+                            "BANA": "Department of Information & Operations Management",
+                            "FINC": "Finance",
+                            "MGMT": "Management",
+                            "MKTG": "Marketing",
+                            "BMPO": "MBA Program Office",
+                            "IBUS": "Center For International Business Studies",
+                            "CLBA": "Dean of Business Administration",
+                            "CNVE": "Center for New Ventures and Entrepreneurship",
+                            "EXDE": "Center for Executive Development",
+                            "EMBA": "Executive Mba Program-Mays Business School",
+                            "BUSP": "Business Undergraduate Special Programs"
+                        }
+                    },
+                    "CLED":
+                    {
+                        "name": "School of Education",
+                        "code": "CLED",
+                        "units": {
+                            "TLAC": "Teaching, Learning & Culture",
+                            "EAHR": "Educational Administration & Human Resources Development",
+                            "EPSY": "Educational Psychology",
+                            "HLKN": "Health & Kinesiology",
+                            "CLED": "Dean of Education",
+                            "CERD": "Research & Development"
+                        }
+                    },
+                    "CLEN":
+                    {
+                        "name": "College of Engineering",
+                        "code": "CLEN",
+                        "units": {
+                            "AERO": "Aerospace Engineering",
+                            "CHEN": "Chemical Engineering",
+                            "CVEN": "Civil Engineering",
+                            "BMEN": "Biomedical Engineering",
+                            "CPSC": "Computer Science & Engineering",
+                            "ELEN": "Electrical Engineering",
+                            "ENTC": "Engineering Technology",
+                            "INEN": "Industrial Engineering",
+                            "MEEN": "Mechanical Engineering",
+                            "NUEN": "Nuclear Engineering",
+                            "PETE": "Petroleum Engineering",
+                            "MSEN": "Materials Science & Engineering",
+                            "ZACH":{
+                                "name": "Zachry Engineering Education Complex",
+                                "units":{
+                                    "1": "Zachry Common Labs",
+                                    "2": "Zachry Design Center"
+                                }
+                            },
+                            "MTDE": "Multidisciplinary Engineering",
+                            "MCF,": "Materials Characterization Facility",
+                            "OCEN": "Ocean Engineering",
+                            "EAPO": "Education Program",
+                            "DLEN": "Remote Education",
+                            "EPO": {
+                                "name": "Engineering Programs Office",
+                                "units" :{
+                                    "1": "Engineering Academic Coordination",
+                                    "2": "Assistant Dean of Finance",
+                                    "3": "Vice Chancellor of Engineering",
+                                    "4": "Engineering Communications Group"
+                                }
+                            }
+                        }
+                    },
+                    "CLEM":
+                    {
+                        "name": "College of Engineering Medicine",
+                        "code": "CLEM"
+                    },
+                    "CLVF":
+                    {
+                        "name": "School of Performance, Visualiation and Fine Arts ",
+                        "code": "CLVF",
+                        "units": {
+                            "VIZA":"Visualization",
+                            "PERF":"Performance Studies"
+                        }
+                    },
+                    "CLLW":
+                    {
+                        "name": "School of Law",
+                        "code": "CLLW"
+                    },
+                    "CLVM":
+                    {
+                        "name": "School of Veterinary Medicine & Biomedical Sciences",
+                        "code": "CLVM",
+                        "units": {
+                            "CLVM": "Office of the Dean of Veterinary Medicine",
+                            "VTAN": "Veterinary Integrative Biosciences",
+                            "VLAM": "Large Animal Clinical Sciences",
+                            "VSAM": "Small Animal Medicine & Surgery",
+                            "VTPB": "Pathobiology",
+                            "VTPP": "Physiology & Pharmacology",
+                            "VTEA": "Teaching Hospital",
+                            "VTPK": "Veterinary Medical Park",
+                            "TIPS": "Texas Institute For Preclinical Studies"
+                        }
+                    },
+                    "TAMUG":
+                    {
+                        "name": "Galveston Campus",
+                        "code": "TAMUG"
+                    },
+                    "QEMG":
+                    {
+                        "name": "Qatar Campus",
+                        "code": "QEMG"
+                    }
+                }
+            }       
+        }
+    }
+}
