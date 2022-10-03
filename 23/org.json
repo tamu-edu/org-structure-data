@@ -50,6 +50,7 @@
             },
             "4266": {
                 "name": "Interprofessional Education & Research",
+                "code": "4266",
                 "units": {
                     "4240": "Clinical Learning Resource Center"
                 }
@@ -62,113 +63,113 @@
                     "4040": "Counseling & Psychological Services"
                 }
             },
-            "4070": "Strategic Partnerships & Initiatives"
-        },
-        "7010": {
-            "name": "Office of the Director",
-            "code": "7010",
-            "units": {
-                "7040": "Infectious & Inflammatory Diseases",
-                "7050": "Epigenetics & Disease Prevention",
-                "7070": "Program for Animal Resources",
-                "7120": "Translational Cancer Research",
-                "7140": "Genomics & Precision Medicine"
-            }
-        },
-        "0546": {
-            "name": "Office of The Dean",
-            "code": "0546",
-            "units": {
-                "0304": "Biomedical Sciences",
-                "0315": "Advanced Education",
-                "0316": "Research",
-                "0322": "Dental Hygiene",
-                "0324": "Endodontics",
-                "0328": "Department of Comprehensive Dentistry",
-                "0330": "Diagnostic Sciences",
-                "0332": "Oral Surgery",
-                "0334": "Orthodontics",
-                "0336": "Pediatric Dentistry",
-                "0338": "Periodontics",
-                "0340": "Public Health Sciences",
-                "0346": "Clinical Affairs",
-                "0347": "Imaging Center",
-                "0501": "Academic Affairs",
-                "0510": "Library",
-                "0520": "Student Health Clinic",
-                "0521": "Admissions & Recruitment",
-                "0522": "Student Affairs",
-                "0524": "Student Development",
-                "0544": "Department of Finance"
-            }
-        },
-        "2500": {
-            "name": "Office of The Dean",
-            "code": "2500",
-            "units": {
-                "2512": "Regional Campus - Round Rock",
-                "2502": "Regional Campus - Temple",
-                "2511": "Regional Campus - Bryan/College Station",
-                "2200": "Clinical Science & Translational Research",
-                "2518": "Department of Medical Education",
-                "2526": "Continuous Quality Improvement",
-                "2503": "School of Medicine Business Affairs",            
-                "2513": {
-                    "name":"Office of Professional Development",
-                    "units":{
-                        "2513": "Faculty Affairs"
-                    }
-                },
-                "2507": "Office of Research",
-                "2522": "Engineering Medicine",
-                "2071": "Texas A&M Family Medicine Residency",
-                "2080": "Humanities In Medicine",
-                "2060": "Medical Physiology",
-                "2030": "Microbial Pathogenesis & Immunology",
-                "2523": "Military Medicine",
-                "2020": "Molecular & Cellular Medicine",
-                "2010": "Neuroscience & Experimental Therapeutics",
-                "2510": "Academic Affairs",
-                "2509": "Academic Technology",
-                "2565": "Admissions",
-                "2517": "Diversity",
-                "2504": "Graduate Medical Education",
-                "2508": "Research & Graduate Studies",
-                "2516": "Office of Evaluation & Assessment",
-                "2560": "Office of Student Affairs",
-                "2115": "Primary Care & Population Health",
-                "2123": "Psychiatry & Behavioral Science",
-                "2527": "Medical Student Research",
-                "2528": "Preclerkship",
-                "2005": "Translational Medical Science"
-            }
-        },
-        "8010": {
-            "name": "School of Public Health",
-            "code": "8010",
-            "units": {
-                "8015": "Department of Public Health Studies",
-                "8030": "Environmental & Occupational Health",
-                "8040": "Epidemiology & Biostatistics",
-                "8050": "Health Policy & Management",
-                "8060": "Health Promotion & Community Health Sciences",
-                "8061": "Center For Community Health Development",
-                "8062": "Center on Population Health & Aging"
-            }
-        },
-        "1000": {
-            "name": "School of Nursing",
-            "code": "1000",
-            "units": {
-                "1020": "Academic Support"
-            }
-        },
-        "3500": {
-            "name": "Office of The Dean",
-            "code": "3500",
-            "units": {
-                "3550": "Pharmacy Practice"
+            "4070": "Strategic Partnerships & Initiatives",
+            "7010": {
+                "name": "Office of the Director",
+                "code": "7010",
+                "units": {
+                    "7040": "Infectious & Inflammatory Diseases",
+                    "7050": "Epigenetics & Disease Prevention",
+                    "7070": "Program For Animal Resources",
+                    "7120": "Translational Cancer Research",
+                    "7140": "Genomics & Precision Medicine"
+                }
+            },
+            "0546": {
+                "name": "Office of the Dean",
+                "code": "0546",
+                "units": {
+                    "0304": "Biomedical Sciences",
+                    "0315": "Advanced Education",
+                    "0316": "Research",
+                    "0322": "Dental Hygiene",
+                    "0324": "Endodontics",
+                    "0328": "Department of Comprehensive Dentistry",
+                    "0330": "Diagnostic Sciences",
+                    "0332": "Oral Surgery",
+                    "0334": "Orthodontics",
+                    "0336": "Pediatric Dentistry",
+                    "0338": "Periodontics",
+                    "0340": "Public Health Sciences",
+                    "0346": "Clinical Affairs",
+                    "0347": "Imaging Center",
+                    "0501": "Academic Affairs",
+                    "0510": "Library",
+                    "0520": "Student Health Clinic",
+                    "0521": "Admissions & Recruitment",
+                    "0522": "Student Affairs",
+                    "0524": "Student Development",
+                    "0544": "Department of Finance"
+                }
+            },
+            "2500": {
+                "name": "Office of the Dean",
+                "code": "2500",
+                "units": {
+                    "2512": "Regional Campus - Round Rock",
+                    "2502": "Regional Campus - Temple",
+                    "2511": "Regional Campus - Bryan/College Station",
+                    "2200": "Clinical Science & Translational Research",
+                    "2518": "Department of Medical Education",
+                    "2526": "Continuous Quality Improvement",
+                    "2503": "School of Medicine Business Affairs",            
+                    "2513": {
+                        "name":"Office of Professional Development",
+                        "units":{
+                            "2513": "Faculty Affairs"
+                        }
+                    },
+                    "2507": "Office of Research",
+                    "2522": "Engineering Medicine",
+                    "2071": "Texas A&M Family Medicine Residency",
+                    "2080": "Humanities In Medicine",
+                    "2060": "Medical Physiology",
+                    "2030": "Microbial Pathogenesis & Immunology",
+                    "2523": "Military Medicine",
+                    "2020": "Molecular & Cellular Medicine",
+                    "2010": "Neuroscience & Experimental Therapeutics",
+                    "2510": "Academic Affairs",
+                    "2509": "Academic Technology",
+                    "2565": "Admissions",
+                    "2517": "Diversity",
+                    "2504": "Graduate Medical Education",
+                    "2508": "Research & Graduate Studies",
+                    "2516": "Office of Evaluation & Assessment",
+                    "2560": "Office of Student Affairs",
+                    "2115": "Primary Care & Population Health",
+                    "2123": "Psychiatry & Behavioral Science",
+                    "2527": "Medical Student Research",
+                    "2528": "Preclerkship",
+                    "2005": "Translational Medical Science"
+                }
+            },
+            "8010": {
+                "name": "School of Public Health",
+                "code": "8010",
+                "units": {
+                    "8015": "Department of Public Health Studies",
+                    "8030": "Environmental & Occupational Health",
+                    "8040": "Epidemiology & Biostatistics",
+                    "8050": "Health Policy & Management",
+                    "8060": "Health Promotion & Community Health Sciences",
+                    "8061": "Center For Community Health Development",
+                    "8062": "Center on Population Health & Aging"
+                }
+            },
+            "1000": {
+                "name": "School of Nursing",
+                "code": "1000",
+                "units": {
+                    "1020": "Academic Support"
+                }
+            },
+            "3500": {
+                "name": "Office of the Dean",
+                "code": "3500",
+                "units": {
+                    "3550": "Pharmacy Practice"
+                }
             }
         }
     }
-}
+}   
