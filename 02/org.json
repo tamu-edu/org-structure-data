@@ -704,47 +704,327 @@
       "Parent": "CLAG"
     },
     "NFSC": {
-      "Name": "",
+      "Name": "Nutrition",
       "Parent": "CLAG"
     },
     "POSC": {
-      "Name": "",
+      "Name": "Poultry Science",
       "Parent": "CLAG"
     },
     "RPTS": {
-      "Name": "",
+      "Name": "Recreation, Parks & Tourism Science",
       "Parent": "CLAG"
     },
     "SCSC": {
-      "Name": "",
+      "Name": "Soil & Crop Sciences",
       "Parent": "CLAG"
     },
     "ECCB": {
-      "Name": "",
+      "Name": "Ecology & Conservation Biology",
       "Parent": "CLAG"
     },
     "RWFM": {
-      "Name": "",
+      "Name": "Rangeland, Wildlife & Fisheries Management",
       "Parent": "CLAG"
     },
     "FSTC": {
-      "Name": "",
+      "Name": "Food Science & Technology",
       "Parent": "CLAG"
     },
     "TAES": {
-      "Name": "",
+      "Name": "TAES Academic Departments - Unit Business Services",
       "Parent": "CLAG"
     },
     "TAES1": {
-      "Name": "",
+      "Name": "Communications",
       "Parent": "TAES"
     },
     "TAES2": {
-      "Name": "",
+      "Name": "Digital Learning",
       "Parent": "TAES"
     },
     "CLAG1": {
-      "Name": "",
+      "Name": "Office of the Dean",
       "Parent": "CLAG"
+    },
+    "SGPS": {
+      "Name": "Bush School of Government & Public Service",
+      "Parent": "PROV"
+    },
+    "SGPS1": {
+      "Name": "Bush School of Government & Public Service",
+      "Parent": "SGPS"
+    },
+    "POLS": {
+      "Name": "Political Science",
+      "Parent": "SGPS"
+    },
+    "BUDC": {
+      "Name": "Bush School DC Teaching Site",
+      "Parent": "SGPS"
+    },
+    "INTA": {
+      "Name": "International Affairs",
+      "Parent": "SGPS"
+    },
+    "PSAA": {
+      "Name": "Public Service & Administration",
+      "Parent": "SGPS"
+    },
+    "BPCC": {
+      "Name": "Presidential Conference Center",
+      "Parent": "SGPS"
+    },
+    "CLBA": {
+      "Name": "Mays Business School",
+      "Parent": "PROV"
+    },
+    "ACCT": {
+      "Name": "Accounting",
+      "Parent": "CLBA"
+    },
+    "BANA": {
+      "Name": "Department of Information & Operations Management",
+      "Parent": "CLBA"
+    },
+    "FINC": {
+      "Name": "Finance",
+      "Parent": "CLBA"
+    },
+    "MGMT": {
+      "Name": "Management",
+      "Parent": "CLBA"
+    },
+    "MKTG": {
+      "Name": "Marketing",
+      "Parent": "CLBA"
+    },
+    "BMPO": {
+      "Name": "MBA Program Office",
+      "Parent": "CLBA"
+    },
+    "IBUS": {
+      "Name": "Center For International Business Studies",
+      "Parent": "CLBA"
+    },
+    "CLBA1": {
+      "Name": "Dean of Business Administration",
+      "Parent": "CLBA"
+    },
+    "CNVE": {
+      "Name": "Center for New Ventures and Entrepreneurship",
+      "Parent": "CLBA"
+    },
+    "EXDE": {
+      "Name": "Center for Executive Development",
+      "Parent": "CLBA"
+    },
+    "EMBA": {
+      "Name": "Executive Mba Program-Mays Business School",
+      "Parent": "CLBA"
+    },
+    "BUSP": {
+      "Name": "Business Undergraduate Special Programs",
+      "Parent": "CLBA"
+    },
+    "CLED": {
+      "Name": "School of Education",
+      "Parent": "PROV"
+    },
+    "TLAC": {
+      "Name": "Teaching, Learning & Culture",
+      "Parent": "CLED"
+    },
+    "EAHR": {
+      "Name": "Educational Administration & Human Resources Development",
+      "Parent": "CLED"
+    },
+    "EPSY": {
+      "Name": "Educational Psychology",
+      "Parent": "CLED"
+    },
+    "HLKN": {
+      "Name": "Health & Kinesiology",
+      "Parent": "CLED"
+    },
+    "CLED1": {
+      "Name": "Dean of Education",
+      "Parent": "CLED"
+    },
+    "CERD": {
+      "Name": "Research & Development",
+      "Parent": "CLED"
+    },
+    "CLEN": {
+      "Name": "College of Engineering",
+      "Parent": "PROV"
+    },
+    "AERO": {
+      "Name": "Aerospace Engineering",
+      "Parent": "CLEN"
+    },
+    "CHEN": {
+      "Name": "Chemical Engineering",
+      "Parent": "CLEN"
+    },
+    "CVEN": {
+      "Name": "Civil Engineering",
+      "Parent": "CLEN"
+    },
+    "BMEN": {
+      "Name": "Biomedical Engineering",
+      "Parent": "CLEN"
+    },
+    "CSPC": {
+      "Name": "Computer Science & Engineering",
+      "Parent": "CLEN"
+    },
+    "ELEN": {
+      "Name": "Electrical Engineering",
+      "Parent": "CLEN"
+    },
+    "ENTC": {
+      "Name": "Engineering Technology",
+      "Parent": "CLEN"
+    },
+    "INEN": {
+      "Name": "Industrial Engineering",
+      "Parent": "CLEN"
+    },
+    "MEEN": {
+      "Name": "Mechanical Engineering",
+      "Parent": "CLEN"
+    },
+    "NUEN": {
+      "Name": "Nuclear Engineering",
+      "Parent": "CLEN"
+    },
+    "PETE": {
+      "Name": "Petroleum Engineering",
+      "Parent": "CLEN"
+    },
+    "MSEN": {
+      "Name": "Materials Science & Engineering",
+      "Parent": "CLEN"
+    },
+    "ZACH": {
+      "Name": "Zachry Engineering Education Complex",
+      "Parent": "CLEN"
+    },
+    "ZACH1": {
+      "Name": "Zachry Common Labs",
+      "Parent": "ZACH"
+    },
+    "ZACH2": {
+      "Name": "Zachry Design Center",
+      "Parent": "ZACH"
+    },
+    "MTDE": {
+      "Name": "Multidisciplinary Engineering",
+      "Parent": "CLEN"
+    },
+    "MCF": {
+      "Name": "Materials Characterization Facility",
+      "Parent": "CLEN"
+    },
+    "OCEN": {
+      "Name": "Ocean Engineering",
+      "Parent": "CLEN"
+    },
+    "EAPO": {
+      "Name": "Education Program",
+      "Parent": "CLEN"
+    },
+    "DLEN": {
+      "Name": "Remote Education",
+      "Parent": "CLEN"
+    },
+    "EPO": {
+      "Name": "Engineering Programs Office",
+      "Parent": "CLEN"
+    },
+    "EPO1": {
+      "Name": "Engineering Academic Coordination",
+      "Parent": "EPO"
+    },
+    "EPO2": {
+      "Name": "Assistant Dean of Finance",
+      "Parent": "EPO"
+    },
+    "EPO3": {
+      "Name": "Vice Chancellor of Engineering",
+      "Parent": "EPO"
+    },
+    "EPO4": {
+      "Name": "Engineering Communications Group",
+      "Parent": "EPO"
+    },
+    "CLEM": {
+      "Name": "College of Engineering Medicine",
+      "Parent": "PROV"
+    },
+    "CLVF": {
+      "Name": "School of Performance, Visualization and Fine Arts",
+      "Parent": "PROV"
+    },
+    "VIZA": {
+      "Name": "Visualization",
+      "Parent": "CLVF"
+    },
+    "PERF": {
+      "Name": "Performance Studies",
+      "Parent": "CLVF"
+    },
+    "CLLW": {
+      "Name": "School of Law",
+      "Parent": "PROV"
+    },
+    "CLVM": {
+      "Name": "School of Veterinary Medicine & Biomedical Sciences",
+      "Parent": "PROV"
+    },
+    "CLVM1": {
+      "Name": "Office of the Dean of Veterinary Medicine",
+      "Parent": "CLVM"
+    },
+    "VTAN": {
+      "Name": "Veterinary Integrative Biosciences",
+      "Parent": "CLVM"
+    },
+    "VLAM": {
+      "Name": "Large Animal Clinical Sciences",
+      "Parent": "CLVM"
+    },
+    "VSAM": {
+      "Name": "Small Animal Medicine & Surgery",
+      "Parent": "CLVM"
+    },
+    "VTPB": {
+      "Name": "Pathobiology",
+      "Parent": "CLVM"
+    },
+    "VTPP": {
+      "Name": "Physiology & Pharmacology",
+      "Parent": "CLVM"
+    },
+    "VTEA": {
+      "Name": "Teaching Hospital",
+      "Parent": "CLVM"
+    },
+    "VTPK": {
+      "Name": "Veterinary Medical Park",
+      "Parent": "CLVM"
+    },
+    "TIPS": {
+      "Name": "Texas Institute For Preclinical Studies",
+      "Parent": "CLVM"
+    },
+    "TAMUG": {
+        "Name": "Galveston Campus",
+        "Parent": "PROV"
+    },
+    "QEMG": {
+        "Name": "Qatar Campus",
+        "Parent": "PROV"
     }
-  }
+}
